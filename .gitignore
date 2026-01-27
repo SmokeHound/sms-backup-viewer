@@ -5,6 +5,9 @@
 /dist-server
 /tmp
 /out-tsc
+# Rust/Tauri build output
+/target
+/src-tauri/target
 
 # dependencies
 /node_modules
